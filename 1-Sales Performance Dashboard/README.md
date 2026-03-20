@@ -66,7 +66,8 @@ The dashboard provides actionable insights into sales, profit, and customer tren
 ---
 
 ## 📸 Dashboard Preview
-![Sales](1-Sales%20Performance%20Dashboard/sales_dashboard.png)
+![Dashboard](sales_dashboard.png) 
+
 ---
 
 ## 🚀 Learnings
