@@ -20,7 +20,6 @@ This repository contains Power BI dashboards focused on business insights and da
 ## 📸 Previews
 
 ### Sales Dashboard
-![Sales](1-Sales_Performance_Dashboard/sales_dashboard.png)
-
+![Sales](1-Sales%20Performance%20Dashboard/sales_dashboard.png)
 ### Churn Dashboard
-![Churn](2-Customer-Churn-Analysis-Dashboard/Churn_Dashboard.png)
+![Churn](2-Customer%20Churn%20Analysis%20Dashboard/churn_dashboard.png)
